@@ -17,8 +17,8 @@ Our attention is very valuable. Over time YouTube has been creeping ever closer 
 
 1. **Clone this repo**  
    ```bash
-   git clone https://github.com/your-username/youtube-shorts-blocker.git
-   cd youtube-shorts-blocker```
+   git clone https://github.com/fabkern/youtube-shorts-blocker.git
+   cd youtube-shorts-blocker
 
 2. **Load as unpacked extension**
 
